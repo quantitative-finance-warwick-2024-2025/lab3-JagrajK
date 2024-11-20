@@ -1,0 +1,1 @@
+similar results for loop and normal recursion. About 30% faster on tail recursion.
